@@ -1,0 +1,73 @@
+[
+    {
+      "activo": true,
+      "id": 1,
+      "apellido": "Gómez",
+      "nombre": "Laura",
+      "cargo": "Analista de Sistemas"
+    },
+    {
+      "activo": false,
+      "id": 2,
+      "apellido": "Pérez",
+      "nombre": "Carlos",
+      "cargo": "Jefe de Proyectos"
+    },
+    {
+      "activo": true,
+      "id": 3,
+      "apellido": "Rodríguez",
+      "nombre": "María",
+      "cargo": "Desarrollador Full Stack"
+    },
+    {
+      "activo": true,
+      "id": 4,
+      "apellido": "Fernández",
+      "nombre": "Julián",
+      "cargo": "Soporte Técnico"
+    },
+    {
+      "activo": false,
+      "id": 5,
+      "apellido": "López",
+      "nombre": "Ana",
+      "cargo": "Diseñadora UX/UI"
+    },
+    {
+      "activo": true,
+      "id": 6,
+      "apellido": "Martínez",
+      "nombre": "Pedro",
+      "cargo": "Adm. de Base de Datos"
+    },
+    {
+      "activo": true,
+      "id": 7,
+      "apellido": "García",
+      "nombre": "Sofía",
+      "cargo": "Analista de Datos"
+    },
+    {
+      "activo": false,
+      "id": 8,
+      "apellido": "Hernández",
+      "nombre": "Diego",
+      "cargo": "Gerente de Ventas"
+    },
+    {
+      "activo": true,
+      "id": 9,
+      "apellido": "Cruz",
+      "nombre": "Valentina",
+      "cargo": "Marketing Digital"
+    },
+    {
+      "activo": true,
+      "id": 10,
+      "apellido": "Ramírez",
+      "nombre": "Javier",
+      "cargo": "Desarrollador Frontend"
+    }
+  ]
+  
