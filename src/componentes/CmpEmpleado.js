@@ -12,7 +12,7 @@ function CmpEmpleado({ empleado, cambiarEstado}){
             </p>
             <p>
                 Estado: 
-                <span className={empleado.activo ? "estado-activo" : "estadoinactivo"}>
+                <span className={empleado.activo ? "estado-activo" : "estado-inactivo"}>
                     {empleado.activo ? "Activo " : "Inactivo "}
                 </span>
             </p>
